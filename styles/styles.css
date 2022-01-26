@@ -1,0 +1,22 @@
+h1 {
+    font-size: 40px;
+    font-weight: 300;
+    font-style:oblique;
+}
+
+p {
+   font-family:Comic Sans MS, Comic Sans, cursive;
+}
+
+body {
+        background-image: url(../Bilder/Katt-tass.jpg);
+        background-attachment: fixed;
+    }
+    
+img {
+    border-right: 5px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 50%;
+  
+}
